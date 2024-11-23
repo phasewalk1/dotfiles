@@ -3,4 +3,4 @@
 	url = https://github.com/phasewalk1/nvim
 [submodule "fish"]
 	path = fish
-	url = https://github.com/phasewalk1/fishcfg
+	url = https://github.com/phasewalk1/fish
